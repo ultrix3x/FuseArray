@@ -108,3 +108,14 @@ Will be converted into
 section.property=value
 
 
+Repositories
+============
+This package can be found at the following places.
+
+PHPClasses.org
+--------------
+http://www.phpclasses.org/fuse-array
+
+GitHub
+------
+https://github.com/ultrix3x/FuseArray
