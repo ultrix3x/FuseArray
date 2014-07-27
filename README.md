@@ -97,7 +97,7 @@ Will be converted into
 section.property=value
 ```
 
-##Repositories
+# Repositories
 This package can be found at the following places.
 
 ## PHPClasses.org
